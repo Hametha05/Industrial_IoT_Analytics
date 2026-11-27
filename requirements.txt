@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+paho-mqtt
+psycopg2-binary
+redis
+streamlit
+requests
+pandas
+python-dotenv
+google-genai
+chromadb
